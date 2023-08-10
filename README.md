@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available in [github](github)
 
-- 💬 Ask me about **HTML, CSS, Javascript, jQuery**
+- 💬 Ask me about **HTML, CSS, Javascript, jQuery, React**
 
 - 📫 How to reach me **rc9185@srmist.edu.in**
 
