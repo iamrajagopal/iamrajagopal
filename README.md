@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Open Source Contributions**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **developing Websites**
 
